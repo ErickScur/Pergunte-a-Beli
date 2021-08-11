@@ -14,7 +14,6 @@ btn.addEventListener("click",function (e){
 
     label1.innerHTML = p1.value;
     label2.innerHTML = p2.value;
-
     let num = Math.round(Math.random());
     let resultado="";
     switch(num){
